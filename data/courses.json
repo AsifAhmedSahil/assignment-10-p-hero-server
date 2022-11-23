@@ -1,0 +1,96 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_student": 488,
+      "title": "Basics Blockchain",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34"
+        
+      },
+      
+      "image_url": "https://th.bing.com/th/id/OIP.UeDmBR_UJf6Nu-uVXnAouQHaD4?pid=ImgDet&rs=1",
+      "details": "A blockchain is a distributed database, meaning that the storage devices for the database are not all connected to a common processor. It maintains a growing list of ordered records, called blocks. Each block has a timestamp and a link to a previous block."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_student": 488,
+      "title": "Blockchain Fundermentals",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34"
+        
+      },
+      "image_url": "https://th.bing.com/th/id/R.d42e062a51e37a8f464a4ccd591015cd?rik=0yeVvOCjowOv7w&pid=ImgRaw&r=0",
+      "details": "That file-sharing network did more than just share music files: It allowed all users to retain copies of those shared files such that a single digital asset resulted in a limitless number of perfect copies across a global network. The casual ease with which technology was leveraged by anyone with a computer caught venerable Tower Records by such surprise that it was forced to close all of its"
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "03",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_student": 400,
+      "title": "Blockchain Core Concepts",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45"
+        
+      },
+      "image_url": "https://th.bing.com/th/id/R.879e77ebc5b747f03b59fa5fda850525?rik=2pXNAW8iUJyUiA&pid=ImgRaw&r=0",
+      "details": "Blockchain consists of the following core components: Node: Computer within the system Transaction: Actual transaction of value, the smallest component of the Blockchain Block: It’s a data structure where transactions are stored in a Merkletree format. Chain: A sequence of blocks in a specific order"
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+     
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_student": 400,
+      "title": "Build your own Blockchain",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45"
+        
+      },
+      
+      "image_url": "https://th.bing.com/th/id/R.8124fddde642c9934487294be2e7ce38?rik=W5V3s13ztUHspQ&pid=ImgRaw&r=0",
+      "details": "Blockchain provides the system to accomplish just that, and how to build your own blockchain should be on your list of priorities. Indeed, across sectors and industries, many are already integrating blockchain into their existing infrastructures. Blockchain technology may very well be the ultimate innovation that resulted from the cryptocurrency boom. "
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_student": 980,
+      "title": "Solidity For Blockchain",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00"
+        
+      },
+      
+      "image_url": "https://th.bing.com/th/id/R.8163d703d34458f4b875188f42fdf33e?rik=%2feX1uTfj1qH6DA&pid=ImgRaw&r=0",
+      "details": "One of the first examples of solidity blockchain setup refers to versioning and, most importantly, semantic versioning. The different versions of solidity abide by semantic versioning with the facility of nightly development builds for associated releases."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_student": 980,
+      "title": "Build Your Own Smart Contract",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00"
+        
+      },
+      
+      "image_url": "https://th.bing.com/th/id/OIP.mbZzdFUpYS40DJxQXapoBwHaEk?pid=ImgDet&rs=1",
+      "details": "Solidity sounds more intimidating than it actually is. The first thing you may notice about the language is the striking resemblance it has to a JavaScript class. There are some subtle differences, though, like the requirement of semicolons and the use of hashing functions. The hashing functions are used to create unique keys and map them to other variables. In our example, we would use them to create unique tickets and map them to the accounts that buy them."
+    }
+
+  ]
